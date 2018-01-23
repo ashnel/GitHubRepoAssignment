@@ -1,0 +1,1 @@
+This repo is to hold some assignments for CodingDojo.
