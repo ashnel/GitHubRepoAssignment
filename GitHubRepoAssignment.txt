@@ -1,0 +1,8 @@
+1. Created a new repo on GitHub
+2. Created a new folder with mkdir
+3. Initialized repo with git init
+4. Created a readme file with touch readme.md
+5. Added to staging area with git add .
+6. Commited changes with commit -md
+7. Added repo with git remote add origin
+8. Pushed changes with git push -u origin master
